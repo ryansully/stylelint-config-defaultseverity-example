@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config-defaultseverity-example",
+  "version": "1.0.0",
+  "description": "stylelint config for defaultSeverity example",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "stylelint": ">= 8.0.0"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^18.0.0"
+  }
+}
